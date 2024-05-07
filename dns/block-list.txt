@@ -1,2 +1,3 @@
 ||facebook.com^
+||instagram.com^
 ||tr-tr.facebook.com^
